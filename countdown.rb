@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(number)
-  number = integer
+  number = 0
 
   counter = 0
   while number > 0
